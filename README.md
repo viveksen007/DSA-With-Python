@@ -25,32 +25,55 @@ Functions
 Recursion
 
 🔹 Data Structures
+<br>
 Arrays
+<br>
 Strings
+<br>
 Linked List
+<br>
 Stack
+<br>
 Queue
+<br>
 Hashing
+<br>
 Trees
+<br>
 Binary Search Tree
+<br>
 Heap
+<br>
 Graph
+<br>
 Trie
 
 🔹 Algorithms
+<br>
 Searching Algorithms
+<br>
 Sorting Algorithms
+<br>
 Recursion & Backtracking
+<br>
 Divide and Conquer
+<br>
 Greedy Algorithms
+<br>
 Dynamic Programming
+<br>
 Graph Algorithms
 
 🔹 Problem Solving
+<br>
 LeetCode Problems
+<br>
 HackerRank Problems
+<br>
 Coding Ninjas Problems
+<br>
 Interview Questions
+<br>
 Competitive Programming Problems
 
 # 🛠️ Language Used
