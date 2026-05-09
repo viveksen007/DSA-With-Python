@@ -11,11 +11,17 @@ Author - Vivek sen
 # 📌 Topics Covered
 
 🔹 Basic Programming
+<br>
 Variables and Data Types
+<br>
 Operators
+<br>
 Conditional Statements
+<br>
 Loops
+<br>
 Functions
+<br>
 Recursion
 
 🔹 Data Structures
