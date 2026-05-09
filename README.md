@@ -6,6 +6,7 @@ The main goal of this repository is to strengthen problem-solving skills, improv
 
 
 📌 Topics Covered
+
 🔹 Basic Programming
 Variables and Data Types
 Operators
@@ -13,6 +14,7 @@ Conditional Statements
 Loops
 Functions
 Recursion
+
 🔹 Data Structures
 Arrays
 Strings
@@ -25,6 +27,7 @@ Binary Search Tree
 Heap
 Graph
 Trie
+
 🔹 Algorithms
 Searching Algorithms
 Sorting Algorithms
@@ -33,6 +36,7 @@ Divide and Conquer
 Greedy Algorithms
 Dynamic Programming
 Graph Algorithms
+
 🔹 Problem Solving
 LeetCode Problems
 HackerRank Problems
