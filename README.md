@@ -6,7 +6,7 @@ This repository contains solutions, implementations, and practice problems for D
 The main goal of this repository is to strengthen problem-solving skills, improve coding logic, and prepare for coding interviews, competitive programming, and technical exams.
 
 
-📌 Topics Covered
+# 📌 Topics Covered
 
 🔹 Basic Programming
 Variables and Data Types
