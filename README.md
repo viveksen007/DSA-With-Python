@@ -1,5 +1,3 @@
-<img src=""C:\Users\devel\Downloads\vivek.jpeg"" alt="404 Error Vivek not Found">
-
 # DSA-With-Python
 Welcome to my DSA with Python repository 🚀
 
