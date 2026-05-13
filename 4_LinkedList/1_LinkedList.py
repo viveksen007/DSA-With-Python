@@ -90,7 +90,7 @@ if __name__ == "__main__":
     A.insert_at_beginning(9)
     A.insert_at_end(12)
     A.insert_at_N_position(14 , 2)
-    A.Reverse()
+    # A.Reverse()
     A.Print()
     A.Length()
    
